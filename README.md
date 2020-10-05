@@ -1,3 +1,3 @@
-This project uses Python Flask and Jinja Templates with Materialize styling for a Task Manager app
+A Task Manager app developed using Python Flask backend with Materialize Framework for the front-end.
 
 [Deployed website on Heroku](https://task-manager-flask-mongo84.herokuapp.com/)
